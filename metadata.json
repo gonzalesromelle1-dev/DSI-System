@@ -1,0 +1,8 @@
+{
+  "name": "DSI Inventory Management",
+  "description": "Enterprise inventory & operations management system tracking materials, pull out dispatch, manpower deployment with daily rates & mobilization, and project allocations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
